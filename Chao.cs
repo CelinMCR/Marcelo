@@ -1,5 +1,3 @@
-Qualquer coisa
-
 using UnityEngine;
 
 public class Chao : MonoBehaviour
